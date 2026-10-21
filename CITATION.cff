@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 2: sistema cardiovascular'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ernesto
+    family-names: Jáuregui Bogarin
+    email: L23212203@tijuana.tecnm.mx
+    affiliation: TecNM / IT Tijuana
+repository-code: 'https://github.com/23212203-EJB/MSFP2'
+keywords:
+  - Sistema cardiovascular
+  - Modelo matemático
+  - Hipotensión
+  - Normotensión
+  - Hipertensión
+  - Circuito RLC
+  - Controlador PID
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-10-20'
